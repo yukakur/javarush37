@@ -1,0 +1,22 @@
+2022-03-14 10:13:20 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 10:13:20 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 10:13:20 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-03-14 10:13:20 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2022-03-14 10:13:44 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2022-03-14 10:13:45 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2022-03-14 10:13:45 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2022-03-14 10:13:45 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 10:13:45 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 10:13:45 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-03-14 10:14:33 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-03-14 10:14:33 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-03-14 10:15:01 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-03-14 10:15:01 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.56 ----------
+
+2022-03-14 10:15:01 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2022-03-14 10:15:01 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-03-14 10:15:01 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-03-14 10:15:01 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-03-14 10:15:01 INFO  ApacheHttpClient.startGA(36) - GAService started.
